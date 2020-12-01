@@ -83,7 +83,7 @@ a {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: rgba(148, 143, 143, 0.459);
+  background: rgba(94, 92, 92, 0.925);
   transition: all .5s ease-in-out; }
   .navbar__menu.open li {
     margin-bottom: 3rem; }
@@ -92,7 +92,7 @@ a {
       margin: 0 15px;
       font-size: 3rem;
       text-decoration: none;
-      color: #222222;
+      color: white;
       letter-spacing: 2px;
       font-weight: 400;
       transition: 0.6s;
